@@ -9,11 +9,12 @@
 
 - 🌱 Atualmente estou fazendo o curso de GItHub na Alura!<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
 - Aprendendo uma nova lingua! Inglês!
+<img align="right" alt="avatar" src="https://user-images.githubusercontent.com/92397080/179236272-b34d2197-22cc-48d2-b92f-455b5a917fac.png" width="400px" />
 
 <div>
 <a href="https://github.com/flaviobag">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviobag&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviobag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-  <img align="right" alt="avatar" src="[flaviobag](https://user-images.githubusercontent.com/92397080/179236272-b34d2197-22cc-48d2-b92f-455b5a917fac.png)" width="400px" />
-  ![flaviobag](https://user-images.githubusercontent.com/92397080/179236449-4a6182ea-74e9-4c21-843d-a1913db6cf01.png)
+
+  
