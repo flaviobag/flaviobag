@@ -1,5 +1,6 @@
 ## Olá, me chamo Flavio Benedito ! 
 ### Bem vindo ao meu perfil GitHub 👋
+- 📫 Como entrar em contato comigo:
 <a href="https://www.linkedin.com/in/flavio-benedito-aidar-gavioli-31747010a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
