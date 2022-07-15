@@ -15,5 +15,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviobag&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviobag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-[octocat-1657892005616](https://user-images.githubusercontent.com/92397080/179234072-2ea2c57f-523d-4d60-99b2-670d0d773252.png)
 
+
+![octocat-1657892005616](https://user-images.githubusercontent.com/92397080/179234254-9d70c30d-546a-46b6-89ff-685e6e6c8b0e.png)
