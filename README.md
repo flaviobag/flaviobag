@@ -17,4 +17,4 @@
 </div>
 
   <img src="![octocat-1657892005616](https://user-images.githubusercontent.com/92397080/179234254-9d70c30d-546a-46b6-89ff-685e6e6c8b0e.png)
-" target="_blank">
+" target="_blank" width="50" height="50" allign="right">
