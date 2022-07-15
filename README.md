@@ -16,4 +16,4 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flaviobag&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-  <img align="right" alt="avatar" src="[octocat-1657892005616](https://user-images.githubusercontent.com/92397080/179236053-01a81147-915a-4ca1-a1ec-980fee0b22e2.png)" width="400px" />
+  <img align="right" alt="avatar" src="![flaviobag](https://user-images.githubusercontent.com/92397080/179236272-b34d2197-22cc-48d2-b92f-455b5a917fac.png)" width="400px" />
